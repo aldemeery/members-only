@@ -14,4 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Basic authentication.
 - New and Create Actions
 - Validation for Posts and Users
+- Shows Authors to only authenticated users
+
 

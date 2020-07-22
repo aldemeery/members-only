@@ -15,7 +15,11 @@
     <% @posts.each do |post| %>
       <tr>
         <td><%= post.content %></td>
+        <%if user_signed_in? %>
         <td><%= post.user.name %></td>
+        <% else %>
+        <td>Anonymous</td>
+        <% end %>
       </tr>
     <% end %>
   </tbody>

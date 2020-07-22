@@ -12,3 +12,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - User and Post models and migrations.
 - Posts scaffold.
 - Basic authentication.
+- New and Create Actions
+- Validation for Posts and Users
+

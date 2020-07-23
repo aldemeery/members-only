@@ -15,5 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New and create actions.
 - Validation for posts and users.
 - Shows authors to only authenticated users.
+- Sign in/Sign out links added to all views when not logged in.
+- Logout button only when user is signed in.
 
 
